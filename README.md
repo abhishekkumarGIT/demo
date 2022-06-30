@@ -1,2 +1,2 @@
-# Raect App demo
+# React App demo
  A Text Manipulator React App
